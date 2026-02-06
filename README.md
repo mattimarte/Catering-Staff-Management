@@ -23,4 +23,5 @@ The development followed a rigorous design process. The repository includes docu
 * **Robustness:** Handling of alternative flows and exceptions as defined in the Use Case extensions.
 
 ---
-*Developed as part of the Development of Software Applications course at the University of Turin (UniTO).*
+*Developed as part of the Development of Software Applications course at the University of Turin (UniTO) together with the following collaborators:*
+- *Matteo Marcolin*
